@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c161ab-e16d-4d7a-9652-9dc91f8ee30e" name="Changes" comment="change" />
+    <list default="true" id="03c161ab-e16d-4d7a-9652-9dc91f8ee30e" name="Changes" comment="added test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677747757943</updated>
-      <workItem from="1677747759650" duration="5832000" />
+      <workItem from="1677747759650" duration="6246000" />
     </task>
     <task id="LOCAL-00001" summary="2 commit">
       <created>1677749056467</created>
@@ -100,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677754979890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change">
+      <created>1677754992711</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677754992711</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added test">
+      <created>1677755244822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677755244822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 commit" />
     <MESSAGE value="change" />
-    <option name="LAST_COMMIT_MESSAGE" value="change" />
+    <MESSAGE value="added test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added test" />
   </component>
 </project>
