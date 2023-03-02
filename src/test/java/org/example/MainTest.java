@@ -11,11 +11,11 @@ import static org.junit.jupiter.api.Assertions.*;
     void main() {
 
         //GIVEN
-
+        boolean para = true;
         //WHEN
-
+        boolean actual = Main.methode(true);
         //THEN
-
+        assertEquals (true, actual);
         // Test Code
 
 
